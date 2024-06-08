@@ -18,3 +18,6 @@ If the webcam code isn't working, you can make the following adjustment:
 ## Output Photo Storage
 
 The output photos captured by the face detection model are stored in the `output` folder. You can find the detected face images there.
+
+![Example Image](Output/Screenshot 2024-06-09 003119.png)
+
