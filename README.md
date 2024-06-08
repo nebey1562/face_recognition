@@ -1,5 +1,20 @@
-# face_recognition
-**Inorder to run the Face Detection model got to Face_detection.ipynb file run the following code**
-**It acces your webcam and then detects whether your face is captured by Camera**
-**In case the webcam code is not working please cahnge the  VideoCapture(0) toVideoCapture(1) to acces your webcam**
-**Output Photos are also stored in output folder**
+# Face Recognition
+
+## Running the Face Detection Model
+
+To run the face detection model, follow these steps:
+
+1. Open the `Real_time_detection.ipynb` file.
+2. Run the provided code within the notebook.
+3. This code accesses your webcam and detects whether your face is captured by the camera.
+
+## Webcam Code Adjustment
+
+If the webcam code isn't working, you can make the following adjustment:
+
+- Change `VideoCapture(0)` to `VideoCapture(1)` within the notebook.
+- This modification allows you to access your webcam. It might be necessary if you have multiple cameras connected to your system.
+
+## Output Photo Storage
+
+The output photos captured by the face detection model are stored in the `output` folder. You can find the detected face images there.
